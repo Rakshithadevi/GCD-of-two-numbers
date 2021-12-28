@@ -30,7 +30,7 @@ def gcd():
 ```
 
 ## Output:
-![Github logo](gcd.PNG)
+![Github logo](gcd.png)
 
 
 ## Result:
